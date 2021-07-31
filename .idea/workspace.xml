@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="febcf054-ca25-4e84-be71-c7c8146ac07c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GAMEgenet/GG.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GAMEgenet/GG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GAMEgenet/graphic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GAMEgenet/graphic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/graphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graphic.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>paint</find>
+      <find>text</find>
+      <find>drawrectangle</find>
+      <find>ramka</find>
+      <find>brickrect</find>
+      <find>brickXpos</find>
+      <find>brickheight</find>
+      <find>ballrect</find>
+      <find>dirY</find>
+      <find>posslid_Y</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>drawbricks</replace>
+      <replace>frame</replace>
+      <replace>brick_rect</replace>
+      <replace>brick_X_pos</replace>
+      <replace>brick_height</replace>
+      <replace>ball_rect</replace>
+      <replace>ball_dirY</replace>
+      <replace>pos_slid_Y</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1w4ErN9QmyFYb4N1vnAZxbwDINK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GG" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GG" />
+      <module name="GAMEgenet" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1627709659321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627709659321</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1478" height="26" key="GridCell.Tab.0.bottom" timestamp="1627710547499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="26" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627710547499" />
+    <state width="1478" height="26" key="GridCell.Tab.0.center" timestamp="1627710547499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="26" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1627710547499" />
+    <state width="1478" height="26" key="GridCell.Tab.0.left" timestamp="1627710547499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="26" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1627710547499" />
+    <state width="1478" height="26" key="GridCell.Tab.0.right" timestamp="1627710547499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="26" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1627710547499" />
+    <state x="367" y="34" key="new project wizard" timestamp="1627710298643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1627710298643" />
+  </component>
+</project>
